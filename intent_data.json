@@ -1,0 +1,154 @@
+{
+  "intents": [
+    {
+      "intent": "Product Inquiry",
+      "examples": [
+        "Tell me about the latest smartphones available.",
+        "What are the features of your newest laptops?",
+        "Do you have any discounts on tablets right now?",
+        "Can you give me the specifications of the latest smartwatch?",
+        "Are there any deals on electronics?",
+        "What are the color options for your current smartphones?",
+        "Does this tablet support 5G connectivity?",
+        "Is there a student discount available for laptops?",
+        "Can I compare different laptop models you offer?",
+        "Can you recommend a tablet for digital art?"
+      ]
+    },
+    {
+      "intent": "Order Status",
+      "examples": [
+        "Can I check the status of my recent order?",
+        "When will my order arrive?",
+        "What’s the estimated delivery time for my package?",
+        "Is my order on the way?",
+        "Can you track my order for me?",
+        "Why hasn’t my order shipped yet?",
+        "What tracking number should I use for my order?",
+        "Can I change my delivery address?",
+        "Will I receive a notification when my order is shipped?",
+        "What should I do if my package is lost?"
+      ]
+    },
+    {
+      "intent": "Technical Support",
+      "examples": [
+        "My device won’t turn on, what should I do?",
+        "How can I reset my phone?",
+        "I need help with my laptop, it’s running slow.",
+        "Why is my device not charging?",
+        "How do I recover my password?",
+        "Can you help me install updates?",
+        "My laptop keeps overheating, what can I do?",
+        "How do I troubleshoot internet connectivity issues?",
+        "Can you guide me through a factory reset?",
+        "How can I protect my device from malware?"
+      ]
+    },
+    {
+      "intent": "Return and Exchange",
+      "examples": [
+        "What is your return policy?",
+        "How can I return a product?",
+        "Do I need the receipt to make a return?",
+        "What items are eligible for a return?",
+        "How long do I have to return an item?",
+        "Can I return sale items?",
+        "Is there a restocking fee for returns?",
+        "How do I exchange an item?",
+        "What’s the process for returning damaged items?",
+        "Can I track the status of my return?"
+      ]
+    },
+    {
+      "intent": "Refunds",
+      "examples": [
+        "How do I get a refund?",
+        "What is your refund policy?",
+        "How long does it take to receive my refund?",
+        "Will I get a refund if I paid with a gift card?",
+        "What should I do if my refund is delayed?",
+        "Is there a way to expedite my refund?",
+        "Can I get a partial refund if the item is used?",
+        "How do I confirm my refund has been processed?",
+        "What if the refund amount is incorrect?",
+        "How long does a refund usually take to process?"
+      ]
+    },
+    {
+      "intent": "Product Recommendation",
+      "examples": [
+        "Can you suggest a good tablet for studying?",
+        "What’s the best smartphone for photography?",
+        "Recommend a gaming laptop for me.",
+        "Which smartwatch would be best for fitness tracking?",
+        "What is a budget-friendly smartphone option?",
+        "Can you help me pick a laptop for graphic design?",
+        "What tablet is best for kids?",
+        "Suggest some top-rated headphones.",
+        "What phone has the best battery life?",
+        "Which laptop is ideal for video editing?"
+      ]
+    },
+    {
+      "intent": "Account and Settings",
+      "examples": [
+        "How do I create an account?",
+        "I need to reset my password.",
+        "Can I update my account information?",
+        "How do I change my email address on file?",
+        "Where can I view my account settings?",
+        "Can I change my subscription preferences?",
+        "How do I set up two-factor authentication?",
+        "What should I do if I forgot my username?",
+        "How can I delete my account?",
+        "Is it possible to merge two accounts?"
+      ]
+    },
+    {
+      "intent": "Shipping and Delivery",
+      "examples": [
+        "What are your shipping options?",
+        "How much does shipping cost?",
+        "Do you offer free shipping?",
+        "Can I expedite my shipping?",
+        "When will my item be shipped?",
+        "Do you offer international shipping?",
+        "How do I track my shipment?",
+        "Can I change the delivery date?",
+        "Will I get a notification once my order ships?",
+        "What happens if my package is delayed?"
+      ]
+    },
+    {
+      "intent": "Store Information",
+      "examples": [
+        "Where is your store located?",
+        "What are your business hours?",
+        "Do you have any locations near me?",
+        "Is there parking available at your store?",
+        "Do you offer in-store pickup?",
+        "Can I make a return in-store?",
+        "Are your stores open on weekends?",
+        "Do you have a phone number for customer service?",
+        "How do I contact the nearest store?",
+        "Do you have holiday hours?"
+      ]
+    },
+    {
+      "intent": "General Inquiry",
+      "examples": [
+        "Do you have a loyalty program?",
+        "Can I buy a gift card?",
+        "Do you have eco-friendly products?",
+        "Are there any ongoing promotions?",
+        "How often do you update your inventory?",
+        "Do you have a newsletter?",
+        "Can I provide feedback?",
+        "What payment methods do you accept?",
+        "Is there a referral program?",
+        "What should I do if I encounter an issue with my order?"
+      ]
+    }
+  ]
+}
